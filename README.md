@@ -4,7 +4,7 @@ This is kata exercise. It's a simple console program that receives one parameter
 The user can quit the program by typing a 'Q' as the word to look anagrams for.
 
 ## How to compile the code
-**Note:** this guide assumes that you have already downloaded and configured a JDK. In case you haven't done that, click this link.
+**Note:** this guide assumes that you have already downloaded and configured a JDK. In case you haven't done that, click [this link](https://www3.ntu.edu.sg/home/ehchua/programming/howto/JDK_Howto.html).
 
 Before running the program it's necessary to build it first:
 
