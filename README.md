@@ -29,6 +29,6 @@ That's all, have fun with the program. In case you don't want to create the file
 
 You could run these two examples:
 
-`java -cp . com.dhalcojor.Main ./english`
+`java -cp . com.dhalcojor.Main ../examples/english`
 
-`java -cp . com.dhalcojor.Main ./spanish`
+`java -cp . com.dhalcojor.Main ../examples/spanish`
